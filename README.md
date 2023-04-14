@@ -57,10 +57,14 @@
 </p>
 
 ## 📌 Project
-- 1
-- 2
-- 3
-- 4
-- 5
+- 2022.08.16 ~ 2022.08.18 (개인)[공튕기기 게임 만들기 미니 프로젝트](not yet)
+- 2022.08.21 ~ 2022.08.22 (개인)[메모장 만들기 미니 프로젝트](not yet)
+- 2022.08.31 ~ 2022.09.01 (개인)[오늘의 정보 미니 프로젝트](not yet)
+- 2022.10.27 ~ 2022.10.28 (개인)[게시판 만들기 미니 프로젝트](https://github.com/RynuRen/Java_web_test)
+- 2022.11.15 ~ 2022.11.23 [사고방지를 위한 인구밀집도 증가 지역 예측](https://sites.google.com/view/sesacchristmas)
+- 2022.11.28 ~ 2022.12.08 [사과, 그 달콤함에 대하여](not yet)
+- 2022.12.21 ~ 2022.12.27 [얼굴 인식을 활용한 출석 체크](not yet)
+- 2023.01.25 ~ 2023.01.28 (개인)[꼬들 파이썬 구현](https://github.com/RynuRen/Kordle)
+- 2023.02.07 ~ 2023.04.07 [연관글비](https://github.com/RynuRen/article_analyze)(연관된 뉴스글 준비해서 보여드립니다)
 
 <!-- ![RynuRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RynuRen&show_icons=true&theme=monokai) -->
