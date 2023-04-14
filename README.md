@@ -60,6 +60,7 @@
 - 2022.08.16 ~ 2022.08.18 (개인)[공튕기기 게임 만들기 미니 프로젝트](not yet)
 - 2022.08.21 ~ 2022.08.22 (개인)[메모장 만들기 미니 프로젝트](not yet)
 - 2022.08.31 ~ 2022.09.01 (개인)[오늘의 정보 미니 프로젝트](not yet)
+- 2022.10.16 ~ 　　　　　 (개인)[github page로 블로그 만들기](https://rynuren.github.io) // [소스](https://github.com/RynuRen/RynuRen.github.io)
 - 2022.10.27 ~ 2022.10.28 (개인)[게시판 만들기 미니 프로젝트](https://github.com/RynuRen/Java_web_test)
 - 2022.11.15 ~ 2022.11.23 [사고방지를 위한 인구밀집도 증가 지역 예측](https://sites.google.com/view/sesacchristmas)
 - 2022.11.28 ~ 2022.12.08 [사과, 그 달콤함에 대하여](not yet)
