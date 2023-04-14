@@ -65,6 +65,6 @@
 - 2022.11.28 ~ 2022.12.08 [사과, 그 달콤함에 대하여](not yet)
 - 2022.12.21 ~ 2022.12.27 [얼굴 인식을 활용한 출석 체크](not yet)
 - 2023.01.25 ~ 2023.01.28 (개인)[꼬들 파이썬 구현](https://github.com/RynuRen/Kordle)
-- 2023.02.07 ~ 2023.04.07 [연관글비](https://github.com/RynuRen/article_analyze)(연관된 뉴스글 준비해서 보여드립니다)
+- 2023.02.07 ~ 2023.04.07 [연관글비](https://github.com/RynuRen/article_analyze)(**연관**된 뉴스**글** 준**비**해서 보여드립니다)
 
 <!-- ![RynuRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RynuRen&show_icons=true&theme=monokai) -->
