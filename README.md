@@ -63,4 +63,4 @@
 - 4
 - 5
 
-![RynuRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RynuRen&show_icons=true&theme=monokai)
+<!-- ![RynuRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RynuRen&show_icons=true&theme=monokai) -->
