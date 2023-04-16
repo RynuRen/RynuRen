@@ -41,6 +41,8 @@
 </details>
   
 #### Tools
+<details>
+  <summary>펼치기/접기</summary>
 <p>
   <img src="https://img.shields.io/badge/Visual Stuio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Stuio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -58,7 +60,8 @@
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 </p>
-
+</details>
+  
 ## 📌 Project
 - 2022.08.16 ~ 2022.08.18 (개인)[공튕기기 게임 만들기 미니 프로젝트](not yet)
 - 2022.08.21 ~ 2022.08.22 (개인)[메모장 만들기 미니 프로젝트](not yet)
