@@ -17,6 +17,8 @@
 </p>
 
 #### Library
+<details>
+  <summary>펼치기/접기</summary>
 <p>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
@@ -36,7 +38,8 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 </p>
-
+</details>
+  
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Visual Stuio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
