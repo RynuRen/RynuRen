@@ -70,7 +70,7 @@
 - 2022.10.16 ~ 　　　　　 (개인)[github page로 블로그 만들기](https://github.com/RynuRen/RynuRen.github.io) // [페이지](https://rynuren.github.io)
 - 2022.10.27 ~ 2022.10.28 (개인)[게시판 만들기 미니 프로젝트](https://github.com/RynuRen/Java_web_test)
 - 2022.11.15 ~ 2022.11.23 [사고방지를 위한 인구밀집도 증가 지역 예측](https://github.com/RynuRen/data_visualization) // [페이지](https://sites.google.com/view/sesacchristmas)
-- 2022.11.28 ~ 2022.12.08 [사과, 그 달콤함에 대하여](not yet)
+- 2022.11.28 ~ 2022.12.08 [사과, 그 달콤함에 대하여](https://github.com/RynuRen/apple_yield)
 - 2022.12.21 ~ 2022.12.27 [얼굴 인식을 활용한 출석 체크](not yet)
 - 2023.01.25 ~ 2023.01.28 (개인)[꼬들 파이썬 구현](https://github.com/RynuRen/Kordle)
 - 2023.02.07 ~ 2023.04.07 [연관글비](https://github.com/RynuRen/article_analyze)(**연관**된 뉴스**글** 준**비**해서 보여드립니다)
