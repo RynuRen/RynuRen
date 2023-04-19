@@ -1,8 +1,9 @@
 ## 📬 Contact to me
 <div align="center">
-  <a href="https://solved.ac/rynuren" target="_blank"><img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rynuren"/></a>
-  <a href="https://solved.ac/pros0327" target="_blank"><img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pros0327"/></a>
+  <a href="https://www.acmicpc.net/user/rynuren"><img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rynuren"/></a>
+  <a href="https://www.acmicpc.net/user/pros0327"><img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pros0327"/></a>
 </div>
+
 <p>
   <a href="https://rynuren.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="mailto:pros0327@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pros0327@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
