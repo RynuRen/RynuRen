@@ -75,4 +75,10 @@
 - 2023.01.25 ~ 2023.01.28 (개인)[꼬들 파이썬 구현](https://github.com/RynuRen/Kordle)
 - 2023.02.07 ~ 2023.04.07 [연관글비](https://github.com/RynuRen/article_analyze)(**연관**된 뉴스**글** 준**비**해서 보여드립니다)
 
+<p align=center>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRynuRen&count_bg=%23B85151&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 <!-- ![RynuRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RynuRen&show_icons=true&theme=monokai) -->
