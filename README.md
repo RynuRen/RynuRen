@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://solved.ac/pros0327" target="_blank"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pros0327"/></a>
+</div>
+  
 ## 📬 Contact to me
 <p>
   <a href="https://rynuren.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
@@ -8,12 +12,17 @@
   안녕하세요 👋<br>새싹 🌱 AI 프로그래머입니다.
 </p>
 
+
+<div align="center">
+  <a href="https://solved.ac/rynuren" target="_blank"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rynuren"/></a>
+</div>
+
 ## 🧬 Skills
 #### Language
 <p>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
 #### Library
@@ -40,7 +49,11 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 </p>
 </details>
-  
+
+<div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynuRen&layout=compact&hide=jupyter%20notebook,javascript,html,scss,css,ruby&theme=gruvbox&langs_count=6"/>
+</div>
+
 #### Tools
 <details>
   <summary>펼치기/접기</summary>
