@@ -22,7 +22,7 @@
 <p>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJUlEQVQ4T5WSIVMCURSFeQkaNmxEbNKMMiabjIXoaHGgMPwRiUTHpBYzFEYaNCgONmwYbUtavrNzn4Ps4u6+mTNvB8533r3vPlfIsMIwPHPOzZKsLgNfIOAe3wshP/v+1ADgMlAf+C53BcBVwahncEDQ927QwQoMfsZ8i5poCLzI3AIBY8xt1EVPuS+RgDega/YPBfE9yXUHgOcAATpBNwRc5AqQmZBTtqVNoZMaoAeDqWU9RxdmY6xbNXMLGfixxqZgpZcM8IeuAL4ssMj+b0AFwyPyT1eA1gipggZ6968y8R1QRQ3DZ1LP+7/9CfAg+xVGvX+1ojW1e4mF/gYAPRjwKoAKNv40/lNbGucRWqNlYgsY1e+lmXWqlsBj+15ZgC41qmYLTU1xEXRvWZgAAAAASUVORK5CYII=&logoColor=white"/>
 </p>
 
 
