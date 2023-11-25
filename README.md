@@ -82,7 +82,9 @@
 <br>
 
 ## 📌 Project
-
+<details>
+  <summary>펼치기/접기</summary>
+  
 |기간|팀|프로젝트명|
 |-|:--:|-|
 |2023.02.07 ~ 2023.04.07|<img src="https://img.shields.io/badge/팀-107C10">|[연관글비](https://github.com/RynuRen/article_analyze)(**연관**된 뉴스**글** 준**비**해서 보여드립니다)|
@@ -95,6 +97,7 @@
 |2022.08.31 ~ 2022.09.01|<img src="https://img.shields.io/badge/개인-3A3A42">|[오늘의 정보 스크랩 미니 프로젝트](https://github.com/RynuRen/python_project)|
 |2022.08.21 ~ 2022.08.22|<img src="https://img.shields.io/badge/개인-3A3A42">|[메모장 프로그램, 이미지 병합 프로그램 만들기 미니 프로젝트](https://github.com/RynuRen/python_project)|
 |2022.08.16 ~ 2022.08.18|<img src="https://img.shields.io/badge/개인-3A3A42">|[똥피하기 게임, 공튕기기 게임 만들기 미니 프로젝트](https://github.com/RynuRen/python_project)|
+</details>
 
 <p align=center>
   <br>
