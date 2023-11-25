@@ -103,3 +103,9 @@
 </p>
 
 <!-- ![RynuRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RynuRen&show_icons=true&theme=monokai) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RynuRen/RynuRen/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RynuRen/RynuRen/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
