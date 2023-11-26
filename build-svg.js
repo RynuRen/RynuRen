@@ -2,7 +2,7 @@ const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY
 
 import { AsyncWeather } from '@cicciosgamino/openweather-apis'
 import fs from 'fs'
-import formatDistance from 'date-fns'
+import formatDistance from 'date-fns/formatDistance/index.js'
 import qty from 'js-quantities'
 const weather = await new AsyncWeather()
 
