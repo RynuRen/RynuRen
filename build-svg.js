@@ -41,8 +41,6 @@ weather.getAllWeather(function (err, data) {
   const degF = Math.round(data.main.temp_max)
   const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
   const icon = data.weather[0].icon
-  
-  fs.mkdirSync('dist')
 
   fs.readFile('template.svg', 'utf-8', (error, data) => {
     if (error) {
@@ -60,7 +58,8 @@ weather.getAllWeather(function (err, data) {
       if (err) {
         console.error(err)
         return
-      }
-    })
+    } else {
+        console.log("Create Success")
+    }})
   })
 })
