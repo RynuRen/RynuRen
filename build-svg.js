@@ -35,6 +35,8 @@ weather.setCoordinates(37.517235, 127.047325)
 weather.setUnits('imperial')
 weather.setApiKey(OPENWEATHER_API_KEY)
 
+fs.mkdirSync('dist', 777)
+
 weather.getAllWeather(function (err, data) {
     if (err) console.log(err)
 
@@ -54,7 +56,7 @@ weather.getAllWeather(function (err, data) {
         data = data.replace('{psTime}', psTime)
         data = data.replace('{todayDay}', todayDay)
 
-        data = fs.writeFileSync('chat.svg', data, (err) => {
+        data = fs.writeFileSync('dist/chat.svg', data, (err) => {
             if (err) {
                 console.error(err)
                 return
