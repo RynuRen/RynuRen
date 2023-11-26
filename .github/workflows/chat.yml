@@ -16,16 +16,11 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-      - run: ls
-      - run: pwd
+      - run: mkdir dist
       - name: Generate chat.svg
         env:
           OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
-        run: |
-          mkdir dist
-          node build-svg.js
-      - run: ls
-      - run: cp chat.svg dist/chat.svg
+        run: node build-svg.js
 
       - name: Push chat.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
