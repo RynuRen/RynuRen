@@ -1,4 +1,5 @@
-const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY
+// const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY
+const OPENWEATHER_API_KEY = "fa80f2a59a4542abd2831a93f238b874"
 
 import { AsyncWeather } from '@cicciosgamino/openweather-apis'
 import fs from 'fs'
@@ -35,32 +36,30 @@ weather.setCoordinates(37.517235, 127.047325)
 weather.setUnits('imperial')
 weather.setApiKey(OPENWEATHER_API_KEY)
 
-fs.mkdirSync('dist', 777)
+weather.getAllWeather()
+    .then(data => {
+        const degF = Math.round(data.main.temp_max)
+        const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
+        const icon = data.weather[0].icon
 
-weather.getAllWeather(function (err, data) {
-    if (err) console.log(err)
-
-    const degF = Math.round(data.main.temp_max)
-    const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
-    const icon = data.weather[0].icon
-
-    fs.readFile('template.svg', 'utf-8', (error, data) => {
-        if (error) {
-            console.error(error)
-            return
-        }
-
-        data = data.replace('{degF}', degF)
-        data = data.replace('{degC}', degC)
-        data = data.replace('{weatherEmoji}', emojis[icon])
-        data = data.replace('{psTime}', psTime)
-        data = data.replace('{todayDay}', todayDay)
-
-        data = fs.writeFileSync('dist/chat.svg', data, (err) => {
-            if (err) {
-                console.error(err)
+        fs.readFile('template.svg', 'utf-8', (error, data) => {
+            if (error) {
+                console.error(error)
                 return
             }
+
+            data = data.replace('{degF}', degF)
+            data = data.replace('{degC}', degC)
+            data = data.replace('{weatherEmoji}', emojis[icon])
+            data = data.replace('{psTime}', psTime)
+            data = data.replace('{todayDay}', todayDay)
+
+            data = fs.writeFile('dist/chat.svg', data, (err) => {
+                if (err) {
+                    console.error(err)
+                    return
+                }
+            })
         })
     })
-})
+    .catch(error => console.log(error))
