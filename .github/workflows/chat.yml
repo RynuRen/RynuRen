@@ -23,11 +23,9 @@ jobs:
         run: node build-svg.js
 
       - name: Push chat.svg to the output branch
-        uses: EndBug/add-and-commit@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          author_name: RynuRen
-          author_email: pros0327@gmail.com
-          message: "Auto updating my readme"
-          add: "*.svg"
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE }}
