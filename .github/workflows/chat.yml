@@ -16,7 +16,8 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-
+      - run: ls
+      - run: pwd
       - name: Generate chat.svg
         env:
           OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
