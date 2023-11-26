@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <img src="https://github.com/RynuRen/RynuRen/chat.svg"/>
+  <img src="https://github.com/RynuRen/RynuRen/blob/output_chat/chat.svg"/>
 </p>
 <br>
 
