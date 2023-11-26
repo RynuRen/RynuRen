@@ -54,7 +54,7 @@ weather.getAllWeather(function (err, data) {
     data = data.replace('{psTime}', psTime)
     data = data.replace('{todayDay}', todayDay)
 
-    data = fs.writeFile('chat.svg', data, (err) => {
+    data = fs.writeFile('dist/chat.svg', data, (err) => {
       if (err) {
         console.error(err)
         return
