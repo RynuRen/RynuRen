@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  안녕하세요 👋<br>AI🤖 백엔드 프로그래머입니다.
+  <img src="https://github.com/RynuRen/RynuRen/chat.svg"/>
 </p>
 <br>
 

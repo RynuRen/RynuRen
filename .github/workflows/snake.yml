@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate snake
 
 on:
   # run automatically every 24 hours
@@ -16,7 +16,7 @@ on:
   
 
 jobs:
-  generate:
+  generate_snake:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
