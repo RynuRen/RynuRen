@@ -1,10 +1,9 @@
 const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY
 
-import { AsyncWeather } from '@cicciosgamino/openweather-apis'
 let fs = require('fs')
 let formatDistance = require('date-fns/formatDistance')
+let weather = require('@cicciosgamino/openweather-apis')
 let qty = require('js-quantities')
-const weather = await new AsyncWeather
 
 const emojis = {
   '01d': '☀️',
