@@ -31,7 +31,7 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 
 // Today's weather
 weather.setLang('en')
-weather.setCoordinate(37.517235, 127.047325)
+weather.setCoordinates(37.517235, 127.047325)
 weather.setUnits('imperial')
 weather.setApiKey(OPENWEATHER_API_KEY)
 
