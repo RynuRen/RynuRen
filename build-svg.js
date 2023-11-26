@@ -2,7 +2,7 @@ const OPENWEATHER_API_KEY = process.env.OPENWEATHER_API_KEY
 
 let fs = require('fs')
 let formatDistance = require('date-fns/formatDistance')
-let weather = require('openweather-apis')
+let weather = require('@cicciosgamino/openweather-apis')
 let qty = require('js-quantities')
 
 const emojis = {
@@ -32,14 +32,14 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 weather.setLang('en')
 weather.setCoordinate(37.517235, 127.047325)
 weather.setUnits('imperial')
-weather.setAPPID(OPENWEATHER_API_KEY)
+weather.setApiKey(OPENWEATHER_API_KEY)
 
-weather.getWeatherOneCall(function (err, data) {
+weather.getAllWeather(function (err, data) {
   if (err) console.log(err)
 
-  const degF = Math.round(data.daily[0].temp.max)
+  const degF = Math.round(data.main.temp_max)
   const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
-  const icon = data.daily[0].weather[0].icon
+  const icon = data.weather[0].icon
 
   fs.readFile('template.svg', 'utf-8', (error, data) => {
     if (error) {
