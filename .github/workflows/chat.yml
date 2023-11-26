@@ -24,7 +24,8 @@ jobs:
         run: |
           mkdir dist
           node build-svg.js
-          cp chat.svg dist/chat.svg
+      - run: ls
+      - run: cp chat.svg dist/chat.svg
 
       - name: Push chat.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
