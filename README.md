@@ -41,7 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1D3C3E?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black"/>
   <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white"/>
 </p>
 <p>
